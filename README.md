@@ -1,2 +1,4 @@
-# JavaScript-learning-
-mastering the JavaScript with chai
+# JavaScript-learning
+road map for  learning  javascript
+<br>
+Author "jawadali"
